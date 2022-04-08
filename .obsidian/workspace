@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "7175e92975ef9187",
+    "type": "split",
+    "children": [
+      {
+        "id": "935c94af237ec125",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reformed/Total Depravity.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946ad0f86fe4ffa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c67682ad989faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "052f362c6447aaee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c717d10b542c877d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9834341ddcb5f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bad02d501d51ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907dada8a3585e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reformed/Total Depravity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "935c94af237ec125",
+  "lastOpenFiles": [
+    "Reformed/Total Depravity.md"
+  ]
+}
