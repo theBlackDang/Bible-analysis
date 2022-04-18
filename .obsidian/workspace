@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
+            "file": "index.md.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
+                "file": "index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "935c94af237ec125",
   "lastOpenFiles": [
+    "index.md.md",
     "7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
     "index.md",
     "Total Depravity.md",
