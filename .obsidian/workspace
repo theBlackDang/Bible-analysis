@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reformed/Total Depravity.md",
-            "mode": "preview"
+            "file": "Doctrines of grace/7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reformed/Total Depravity.md",
+                "file": "Doctrines of grace/7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "935c94af237ec125",
   "lastOpenFiles": [
-    "Reformed/Total Depravity.md"
+    "Doctrines of grace/7 Reasons Why a Christian CANNOT Lose Their Salvation.md",
+    "Doctrines of grace/Total Depravity.md",
+    "Doctrines of grace/Links.md",
+    "Doctrines of grace/Unconditional Election.md",
+    "Reformed/Effectual Grace.md"
   ]
 }
